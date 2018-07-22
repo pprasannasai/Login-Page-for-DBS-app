@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DBS APP</string>
+    <string name="heading">Fingerprint Authentication</string>
+    <string name="instructions">
+Place your fingertip on the Fingerprint sensor to verify your identity
+</string>
+    <string name="textview">TextView</string>
+    <string name="type_a_message">Type a Message</string>
+    <string name="button">Button</string>
+
+
+</resources>
